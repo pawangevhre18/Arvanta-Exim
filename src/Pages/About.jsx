@@ -1,7 +1,9 @@
 import { ArrowUpRight, Globe2, ShieldCheck, Truck, Leaf } from "lucide-react";
 
 const bannerImage =
-  "https://images.pexels.com/photos/239587/pexels-photo-239587.jpeg?auto=compress&cs=tinysrgb&w=2200";
+  // "https://images.pexels.com/photos/239587/pexels-photo-239587.jpeg?auto=compress&cs=tinysrgb&w=2200";
+
+"https://corevegfoods.com/wp-content/uploads/2026/04/Red-Chilli-Powder-Exporters.png"
 
 const agricultureImage =
   "https://images.pexels.com/photos/2165688/pexels-photo-2165688.jpeg?auto=compress&cs=tinysrgb&w=1800";
@@ -250,81 +252,7 @@ export default function About() {
           </div>
 
         </div>
-      </section>
-
-      {/* WHAT WE DO */}
-      <section className="bg-[#f97316] py-20 sm:py-24 lg:py-28">
-        <div className="mx-auto max-w-[1360px] px-6 sm:px-10 lg:px-14">
-
-          <div className="grid gap-12 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
-
-            <div>
-              <p className="text-[10px] font-semibold uppercase tracking-[0.28em] text-black/60">
-                What We Do
-              </p>
-
-              <h2 className="mt-4 font-serif text-3xl leading-tight text-black sm:text-4xl lg:text-5xl">
-                From sourcing
-                <br />
-                <span className="text-white">
-                  to global supply.
-                </span>
-              </h2>
-
-              <p className="mt-6 max-w-lg text-sm leading-7 text-black/65">
-                We help international buyers source Indian agricultural
-                products with a focus on quality, consistency and
-                dependable export coordination.
-              </p>
-            </div>
-
-            <div className="grid gap-5 sm:grid-cols-2">
-
-              <div className="rounded-[22px] bg-white p-7">
-                <Globe2 className="text-[#f97316]" size={25} />
-
-                <h3 className="mt-6 font-serif text-2xl text-[#171717]">
-                  Global Sourcing
-                </h3>
-
-                <p className="mt-3 text-[13px] leading-6 text-black/50">
-                  Connecting buyers with carefully selected Indian
-                  agricultural and food products.
-                </p>
-              </div>
-
-              <div className="rounded-[22px] bg-white p-7">
-                <ShieldCheck className="text-[#f97316]" size={25} />
-
-                <h3 className="mt-6 font-serif text-2xl text-[#171717]">
-                  Quality Focus
-                </h3>
-
-                <p className="mt-3 text-[13px] leading-6 text-black/50">
-                  Maintaining attention to product quality, handling
-                  and consistency throughout the supply process.
-                </p>
-              </div>
-
-              <div className="rounded-[22px] bg-white p-7 sm:col-span-2">
-                <Truck className="text-[#f97316]" size={25} />
-
-                <h3 className="mt-6 font-serif text-2xl text-[#171717]">
-                  Export Coordination
-                </h3>
-
-                <p className="mt-3 max-w-2xl text-[13px] leading-6 text-black/50">
-                  Supporting international requirements with organized
-                  communication, product coordination and reliable
-                  shipment planning.
-                </p>
-              </div>
-
-            </div>
-
-          </div>
-        </div>
-      </section>
+      </section>   
 
       {/* FINAL CTA */}
       <section className="bg-[#171717] py-20 sm:py-24">

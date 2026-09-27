@@ -8,7 +8,7 @@ const products = [
     description:
       "Premium coir pith and coco peat sourced from natural coconut husk, suitable for nurseries, greenhouse cultivation and professional growing media.",
     image:
-      "https://images.pexels.com/photos/33702958/pexels-photo-33702958.jpeg?auto=compress&cs=tinysrgb&w=1800",
+      "https://t4.ftcdn.net/jpg/09/53/85/37/240_F_953853774_WL4RjRuD7VEqUgnqTol3rHNbh2zhI2kN.jpg",
   },
 
   {
@@ -17,7 +17,9 @@ const products = [
     description:
       "Vibrant red chilli flakes with rich colour and authentic spice character, prepared for food processing, seasoning and international markets.",
     image:
-      "https://images.pexels.com/photos/6087275/pexels-photo-6087275.jpeg?auto=compress&cs=tinysrgb&w=1800",
+      // "https://t3.ftcdn.net/jpg/21/62/03/52/240_F_2162035281_nuXIQPCLcVWLR8nG0RC1z1BonSZHEKSV.jpg",
+      // "https://t3.ftcdn.net/jpg/09/67/14/28/240_F_967142872_Xj4hHgfa1B9Ts7iy0qAFou9LBe0P3veP.jpg"
+      "https://t4.ftcdn.net/jpg/08/08/67/99/240_F_808679970_0sLPMeU5qKQIni7bSrZjtnGSdIHdviyf.jpg"
   },
 
   {
@@ -26,7 +28,9 @@ const products = [
     description:
       "Carefully dehydrated potato slices designed to retain natural flavour and convenience for food processing and commercial applications.",
     image:
-      "https://images.pexels.com/photos/2286776/pexels-photo-2286776.jpeg?auto=compress&cs=tinysrgb&w=1800",
+      //  "https://images.pexels.com/photos/2286776/pexels-photo-2286776.jpeg?auto=compress&cs=tinysrgb&w=1800",
+      "https://t4.ftcdn.net/jpg/01/46/24/41/240_F_146244132_BIwU4MUINh6qgy83m2gnCuWtdoeOIw1J.jpg"
+  
   },
 
   {
@@ -35,7 +39,7 @@ const products = [
     description:
       "Naturally rich dried tomato slices offering concentrated flavour, colour and convenience for food manufacturers and culinary applications.",
     image:
-      "https://images.pexels.com/photos/5589039/pexels-photo-5589039.jpeg?auto=compress&cs=tinysrgb&w=1800",
+ "https://as1.ftcdn.net/v2/jpg/21/67/37/52/1000_F_2167375251_2MIkl9AxkW6cLdJx9W3WENW6qw1po3r4.jpg"
   },
 
   {
@@ -53,7 +57,8 @@ const products = [
     description:
       "Premium Indian chickpeas selected for uniformity, natural colour and dependable quality for international food markets.",
     image:
-      "https://images.pexels.com/photos/34945158/pexels-photo-34945158.jpeg?auto=compress&cs=tinysrgb&w=1800",
+      // "https://images.pexels.com/photos/34945158/pexels-photo-34945158.jpeg?auto=compress&cs=tinysrgb&w=1800",
+      "https://t3.ftcdn.net/jpg/00/80/10/88/240_F_80108839_dMNSJGtHbZksN3XuV8NgpBJBA6Q2eW28.jpg"
   },
 
   {
@@ -62,9 +67,9 @@ const products = [
     description:
       "Aromatic dried ginger with authentic flavour and natural character, suitable for spice blends, food processing and culinary use.",
     image:
-      "https://images.pexels.com/photos/16122304/pexels-photo-16122304.jpeg?auto=compress&cs=tinysrgb&w=1800",
+      // "https://images.pexels.com/photos/16122304/pexels-photo-16122304.jpeg?auto=compress&cs=tinysrgb&w=1800",
+      "https://t4.ftcdn.net/jpg/21/87/37/81/240_F_2187378150_tNYkbqCmMDtcvonb40uqmu58B8w0bgvR.jpg",
   },
-
   {
     name: "Dry Garlic",
     category: "Dehydrated Spices",
@@ -80,7 +85,8 @@ const products = [
     description:
       "A versatile range of dehydrated vegetable ingredients prepared for extended shelf life, easy handling and commercial food applications.",
     image:
-      "https://images.pexels.com/photos/264537/pexels-photo-264537.jpeg?auto=compress&cs=tinysrgb&w=1800",
+      // "https://images.pexels.com/photos/264537/pexels-photo-264537.jpeg?auto=compress&cs=tinysrgb&w=1800",
+      "https://as1.ftcdn.net/v2/jpg/21/94/61/92/1000_F_2194619244_QVhHCouztoBqz4w4DyQmEhaDGinY20Hs.jpg"
   },
 ];
 
